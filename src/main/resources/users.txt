@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5980239060,
+    "username": "JavaBackend_AI",
+    "firstname": "G\u0027ayrat Shirinboyev 👑",
+    "lastname": null,
+    "phoneNumber": "998973956707",
+    "baseState": "ARCHIVE_STATE",
+    "state": "RESULT",
+    "photoId": null
+  },
+  {
+    "id": 5554069217,
+    "username": "Hatamov_Samariddin777",
+    "firstname": "Hatamov Samariddin",
+    "lastname": null,
+    "phoneNumber": "998932046054",
+    "baseState": "ARCHIVE_STATE",
+    "state": "RESULT",
+    "photoId": null
+  },
+  {
+    "id": 5208336187,
+    "username": "xa070807",
+    "firstname": "АСЛИДДИН",
+    "lastname": null,
+    "phoneNumber": "998900093864",
+    "baseState": "MAIN_STATE",
+    "state": "MAIN_MENU",
+    "photoId": null
+  },
+  {
+    "id": 618817727,
+    "username": "DevBro001",
+    "firstname": "Bobur",
+    "lastname": "^",
+    "phoneNumber": "+998330330613",
+    "baseState": "MAIN_STATE",
+    "state": "MAIN_MENU",
+    "photoId": null
+  },
+  {
+    "id": 5129088287,
+    "username": "alimovny",
+    "firstname": "ny",
+    "lastname": null,
+    "phoneNumber": "998909017194",
+    "baseState": "ARCHIVE_STATE",
+    "state": "CHOOSE_CURRENCY",
+    "photoId": null
+  },
+  {
+    "id": 1040000390,
+    "username": "Odil1034",
+    "firstname": "Odiljon",
+    "lastname": "Baxriddinov",
+    "phoneNumber": "998974351034",
+    "baseState": "ARCHIVE_STATE",
+    "state": "ENTER_DATE",
+    "photoId": null
+  },
+  {
+    "id": 1619993617,
+    "username": "RavshanovSardor",
+    "firstname": "Sardor",
+    "lastname": null,
+    "phoneNumber": "998998967233",
+    "baseState": "ARCHIVE_STATE",
+    "state": "CHOOSE_CURRENCY",
+    "photoId": null
+  }
+]

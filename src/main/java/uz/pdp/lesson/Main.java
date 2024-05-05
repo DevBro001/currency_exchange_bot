@@ -1,6 +1,6 @@
 package uz.pdp.lesson;
 
-import uz.pdp.lesson.backend.currency.CurrencyInfo;
+import uz.pdp.lesson.backend.jsonModels.currency.CurrencyInfo;
 import uz.pdp.lesson.backend.service.CurrencyService;
 
 import java.io.IOException;

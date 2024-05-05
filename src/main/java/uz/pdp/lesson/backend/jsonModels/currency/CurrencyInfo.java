@@ -1,5 +1,5 @@
 
-package uz.pdp.lesson.backend.currency;
+package uz.pdp.lesson.backend.jsonModels.currency;
 
 import com.google.gson.annotations.SerializedName;
 
